@@ -4,3 +4,6 @@ language = "de"
 multilingual = false
 src = "src"
 title = "Precious Plastic München Notes"
+
+[output.html]
+cname = "notes.preciousplasticmunich.de"
