@@ -11,3 +11,6 @@
   - [Marketing](./container/marketing.md)
   - [IT im Container](./container/it.md)
 - [Community](./community/intro.md)
+- [Sicherheit](./safety/intro.md)
+- [Sonstiges](./misc/intro.md)
+  - [Website](./misc/website.md)
