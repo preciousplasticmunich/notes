@@ -1,5 +1,8 @@
 # Precious Plastic Community
 
+* [Set up a Community Point](https://community.preciousplastic.com/how-to/set-up-a-community-point)
+* [Organise a Precious Plastic Meetup](https://community.preciousplastic.com/how-to/organise-a-precious-plastic-meetup)
+
 ## München
 
 ## Deutschland
