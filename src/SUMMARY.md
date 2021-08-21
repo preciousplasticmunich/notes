@@ -14,3 +14,6 @@
 - [Sicherheit](./safety/intro.md)
 - [Sonstiges](./misc/intro.md)
   - [Website](./misc/website.md)
+
+---
+- [Wishlist](./wishlist.md)
