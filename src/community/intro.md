@@ -5,6 +5,11 @@
 
 ## München
 
+### Related, but non-PP
+* [Circular Munich](https://circular-munich.com/)
+### Umland
+* [Plastikfrei Gröbenzell](https://www.plastikfrei-groebenzell.de/)
+
 ## Deutschland
 * Kunststoffschmiede
 * [PolyMehr (Hamburg)](https://polymehrhamburg.de/)
